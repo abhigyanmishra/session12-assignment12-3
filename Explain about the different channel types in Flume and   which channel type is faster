@@ -1,0 +1,7 @@
+The 3 different built in channel types available in Flume are –
+
+> MEMORY Channel – Events are read from the source into memory and passed to the sink.
+> JDBC Channel – JDBC Channel stores the events in an embedded Derby database.
+> FILE Channel – File Channel writes the contents to a file on the file system after reading the     
+   event from a   source. The file is deleted only  after the contents are successfully delivered to    
+   the sink.
