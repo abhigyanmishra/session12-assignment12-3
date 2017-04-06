@@ -1,0 +1,2 @@
+Yes.
+Flume supports multiplexing flow. It is achieved by defining a flow multiplexer.
